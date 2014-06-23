@@ -1,0 +1,4 @@
+//Gitignore for pulsegen repository
+*~
+*.DS_Store
+

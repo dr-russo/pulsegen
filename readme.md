@@ -1,1 +1,4 @@
-//Git repository for usb-to-ttl pulse generator app (Matlab)
+pulsegen
+========
+
+Repository for usb-to-ttl pulse generator applet (Matlab)
